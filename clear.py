@@ -1,0 +1,3 @@
+my_list=["a","p","p","l","e"]
+my_list.clear()                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+print(my_list)
